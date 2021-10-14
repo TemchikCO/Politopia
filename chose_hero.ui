@@ -14,11 +14,11 @@
    <string>MainWindow</string>
   </property>
   <widget class="QWidget" name="centralwidget">
-   <widget class="QWidget" name="gridLayoutWidget">
+   <widget class="QGroupBox" name="gridGroupBox">
     <property name="geometry">
      <rect>
-      <x>190</x>
-      <y>110</y>
+      <x>160</x>
+      <y>90</y>
       <width>401</width>
       <height>401</height>
      </rect>
@@ -57,8 +57,8 @@
    <widget class="QLabel" name="label">
     <property name="geometry">
      <rect>
-      <x>250</x>
-      <y>50</y>
+      <x>320</x>
+      <y>40</y>
       <width>231</width>
       <height>41</height>
      </rect>
